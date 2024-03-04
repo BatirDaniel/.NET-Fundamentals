@@ -1,0 +1,5 @@
+C:\Users\crme031\Desktop\.NET-Fundamentals\EssentialTypesAndConcepts\EssentialTypesAndConcepts\obj\Debug\net6.0\EssentialTypesAndConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crme031\Desktop\.NET-Fundamentals\EssentialTypesAndConcepts\EssentialTypesAndConcepts\obj\Debug\net6.0\EssentialTypesAndConcepts.AssemblyInfoInputs.cache
+C:\Users\crme031\Desktop\.NET-Fundamentals\EssentialTypesAndConcepts\EssentialTypesAndConcepts\obj\Debug\net6.0\EssentialTypesAndConcepts.AssemblyInfo.cs
+C:\Users\crme031\Desktop\.NET-Fundamentals\EssentialTypesAndConcepts\EssentialTypesAndConcepts\obj\Debug\net6.0\EssentialTypesAndConcepts.csproj.CoreCompileInputs.cache
+C:\Users\crme031\Desktop\.NET-Fundamentals\EssentialTypesAndConcepts\EssentialTypesAndConcepts\obj\Debug\net6.0\EssentialTypesAndConcepts.sourcelink.json
