@@ -35,8 +35,8 @@ namespace EssentialTypesAndConcepts
             Console.WriteLine(item.ToString("N", new CultureInfo("en-US")));
         }
 
-        // Implementation of IComparable<Interfaces> interface, method will be called when
-        // we will using Sort() method for Interfaces class 
+        // Cistom mplementation of IComparable<Interfaces> interface, method will be called when
+        // we will using Sort() method for Collection of Interface class 
         public int CompareTo(Interface other)
         {
             if (other is null) return 0;
@@ -51,7 +51,7 @@ namespace EssentialTypesAndConcepts
             }
         }
 
-        // Implementation of IEnumerable<Interfaces> interface
+        // Custom implementation of IEnumerable<Interfaces> interface
         // allows simple and efficient iterations through custom collections
 
         private List<Interface> items = new List<Interface>();
@@ -69,7 +69,7 @@ namespace EssentialTypesAndConcepts
             return GetEnumerator();
         }
 
-        // Implementation of IFormattable interface
+        // Custom implementation of IFormattable interface
 
         public string ToString(string format, IFormatProvider formatProvider)
         {

@@ -1,9 +1,11 @@
 ﻿namespace EssentialTypesAndConcepts
 {
     /// <summary>
-    /// Delegates represents a method signature :
+    /// # Delegates represents a method signature :
     ///   - Action delegates => method that returns void
     ///   - Func dalegates => method that has a return type
+    ///   
+    /// # Delegates are a .NET concept, lambda expressions are a programing language concept.
     /// </summary>
     public class DelegatesAndLambdaExpressions
     {

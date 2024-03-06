@@ -11,8 +11,7 @@ namespace EssentialTypesAndConcepts
     /// # Useful for building dynamically extensible applications
     /// 
     /// Attribute :
-    ///    - Attributes can be attached to various types like classes, structs, enums, interfaces, delegates
-    ///    
+    ///    - Attributes can be attached to various types like classes, structs, enums, interfaces, delegates   
     /// </summary>
     
     public class ReflectionAndAttributes

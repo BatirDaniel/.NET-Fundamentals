@@ -52,7 +52,6 @@ namespace EssentialTypesAndConcepts_Copy
         {
             var namespacesAndAssemblies = new EssentialTypesAndConcepts.NamespacesAndAssemblies();
 
-            // Get value of MyPropery from another assembly
             MyProperty_Copy = namespacesAndAssemblies.MyProperty;
         }
     }
